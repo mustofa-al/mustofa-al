@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+#### I'm Ali Mustofa
+
+- 🔭 Developer that primarily focus on Android and Flutter
+- 👨‍💻 Currently work for Symbolic ID
+- 🇮🇩 From Sleman, Indonesia
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustofa-al&count_private=true&theme=dark)
+
 <!--
 **mustofa-al/mustofa-al** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
