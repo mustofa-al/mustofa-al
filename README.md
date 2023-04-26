@@ -5,6 +5,7 @@
 - 🔭 Developer that primarily focus on Android and Flutter
 - 👨‍💻 Currently work for Symbolic ID
 - 🇮🇩 From Sleman, Indonesia
+- ⚡ Open for freelance project
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustofa-al&count_private=true&theme=dark)
 
