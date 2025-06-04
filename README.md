@@ -3,7 +3,7 @@
 #### I'm Ali Mustofa
 
 - 🔭 Developer that primarily focus on Android and Flutter
-- 👨‍💻 Currently work for Symbolic ID
+- 👨‍💻 Currently working on freelance projects
 - 🇮🇩 From Sleman, Indonesia
 - ⚡ Open for freelance project
 
